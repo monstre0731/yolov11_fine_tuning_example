@@ -1,0 +1,11 @@
+path: ./data/KITTI-YOLO
+train: train/images # training path
+val: val/images # validation path
+
+
+nc: 3 # number of classes
+names:
+  0: Car
+  1: Pedestrian
+  2: Cyclist
+
