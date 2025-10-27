@@ -63,10 +63,7 @@ In the path: data/KITTI-YOLO
    Move the dataset and unzip under data. After unzip, it should be like data/KITTI-YOLO
    ```
 
-1. Train the model:
+2. Train the model:
 
     ``python train.py``
 
-2. Use the pretrained model on videos
-
-    ```python run.py```
