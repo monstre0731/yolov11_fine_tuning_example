@@ -51,10 +51,7 @@
             ├── 1002.txt
             └── ...
     ```
-Data example:
-```
-In the path: data/KITTI-YOLO
-```
+
 # Step 3. Train the model 
 1. Download dataset:
    ```
