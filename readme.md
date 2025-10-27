@@ -27,7 +27,7 @@
     ```
     dataset/
     │
-    ├── data.yaml               # Configuration file for training
+    ├── data.yaml               # Configuration file for training 
     │
     ├── train/                  # Training set
     │   ├── images/                 # Training images
@@ -56,6 +56,12 @@ Data example:
 In the path: data/KITTI-YOLO
 ```
 # Step 3. Train the model 
+1. Download dataset:
+   ```
+   Create a folder: mkdir data
+   Download the dataset from link: https://drive.google.com/file/d/1y_W1HuZFbse1VEDJckeq1y6XcbMOBg6c/view?usp=share_link
+   Move the dataset and unzip under data. After unzip, it should be like data/KITTI-YOLO
+   ```
 
 1. Train the model:
 
